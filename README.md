@@ -1,0 +1,2 @@
+# dcnukebot
+discord nuke bot 
