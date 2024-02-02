@@ -23,7 +23,7 @@ from discord.ext import commands
 
 import os
 os.system("cls")
-TOKEN = "MTIwMjYwMjkxNjc2NzMzODUyOA.GUOiW8.o5hlnup_J6LwxRQm4xcuvdXPWhpwxZXKp4oW2E"
+TOKEN = ""
 
 menu = '''
 
