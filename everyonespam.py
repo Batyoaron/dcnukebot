@@ -2,7 +2,7 @@ import discord
 import random
 from discord.ext import commands
 
-TOKEN = 'MTIwMjYwMjkxNjc2NzMzODUyOA.GUOiW8.o5hlnup_J6LwxRQm4xcuvdXPWhpwxZXKp4oW2E'
+TOKEN = ''
 intents = discord.Intents.default()
 intents.guilds = True  
 bot = commands.Bot(command_prefix='!', intents=intents)
