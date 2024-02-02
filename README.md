@@ -28,4 +28,5 @@ After selecting the appropriate permissions, a URL will be generated. With that 
 -Channel deleter: Deletes all the channels
 
 -Ping spammer: spamming 1 million everyone in random channel. You can choose how fast does the bot spam the everyones
-ed
+
+-- slow, medium, fast, really fast, deadly fast(600 pings / minute)
