@@ -19,3 +19,13 @@ Under "Scopes", select "bot".
 Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier (the one that deletes channels), it will need the "Manage Channels" permission.
 
 After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
+
+
+## What this program does?
+
+-Channel maker: Makes 100 channel, if you run the channel maker, it will ask you what should be the 100 channels name
+
+-Channel deleter: Deletes all the channels
+
+-Ping spammer: spamming 1 million everyone in random channel. You can choose how fast does the bot spam the everyones \n
+a
