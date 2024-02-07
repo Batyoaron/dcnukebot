@@ -1,4 +1,5 @@
 # discord nuke bot
+![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/759eb5a9-84d3-4998-a369-220e2db28614)
 
 How to invite the bot to the server
 
