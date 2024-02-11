@@ -17,7 +17,7 @@ Next, go to the "OAuth2" tab on the left sidebar. Scroll down to the "OAuth2 URL
 
 Under "Scopes", select "bot".
 
-Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier (the one that deletes channels), it will need the "Manage Channels" permission.
+Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier, it will need the "administrator" permission.
 
 After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
 
