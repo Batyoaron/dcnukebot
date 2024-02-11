@@ -1,7 +1,7 @@
 # discord nuke bot
 ![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/759eb5a9-84d3-4998-a369-220e2db28614)
 
-How to invite the bot to the server
+# Tutorial
 
 Go to the Discord Developer Portal and log in with your Discord account.
 
@@ -11,7 +11,7 @@ Give your application a name (this will be the name of your bot).
 
 After creating the application, click on the "Bot" tab on the left sidebar, then click on the "Add Bot" button to create a bot user for your application.
 
-You'll see a "Token" section where you can copy your bot's token. Make sure to keep this token secure and never share it publicly. (And paste that token into the python program(TOKEN = "YOUR BOT ID"))
+You'll see a "Token" section where you can copy your bot's token. Make sure to keep this token secure and never share it publicly. (And paste that token into the python program(TOKEN = "YOUR BOT ID")) ---> right click on the file -> edit with idle -> and paste the token in the token = "" between the two ", you need to do this in the pingspammer.py file too.
 
 Next, go to the "OAuth2" tab on the left sidebar. Scroll down to the "OAuth2 URL Generator" section.
 
