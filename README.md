@@ -33,3 +33,11 @@ After selecting the appropriate permissions, a URL will be generated. With that 
 -Ping spammer: spamming 1 million everyone in random channel. You can choose how fast does the bot spam the everyones
 
 -- slow, medium, fast, really fast, deadly fast(600 pings / minute)
+
+# IMPORTANT NOTES
+
+-the bot will only work on pc, dont try to us it in termux
+
+-the bot can only be at one server, if you want to use it in an other server, kick it from the latest server
+
+-dont use this bto to destroy innocent peoples server c:
