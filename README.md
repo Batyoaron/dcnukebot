@@ -40,4 +40,4 @@ After selecting the appropriate permissions, a URL will be generated. With that 
 
 -the bot can only be at one server, if you want to use it in an other server, kick it from the latest server
 
--dont use this bto to destroy innocent peoples server c:
+-dont use this bot to destroy innocent peoples server c:
