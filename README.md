@@ -1,6 +1,8 @@
 # discord nuke bot
 ![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/363e65c0-0d77-427d-a9de-996037636c0b)
 
+> the creator (me) is not responsible for what you do with the program
+
 # Tutorial
 
 Go to the Discord Developer Portal and log in with your Discord account.
