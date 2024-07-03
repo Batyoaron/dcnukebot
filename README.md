@@ -17,7 +17,7 @@ Next, go to the "OAuth2" tab on the left sidebar. Scroll down to the "OAuth2 URL
 
 Under "Scopes", select "bot".
 
-Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier, it will need the "administrator" permission.
+Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier, it will need the "manage roles, manage channels, send messages, ban members" permission.
 
 After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
 
