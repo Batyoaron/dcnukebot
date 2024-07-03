@@ -30,9 +30,11 @@ After selecting the appropriate permissions, a URL will be generated. With that 
 
 -Role maker: Makes 100 roles, if you run the role maker, it will ask you what should be the 100 role name
 
--Ping spammer: spamming 1 million everyone in random channel. You can choose how fast does the bot spam the everyones
+-Ping spammer: spamming 1 million everyone in random channel.
 
--- slow, medium, fast, really fast, deadly fast(600 pings / minute)
+-Role deleter: Deletes every role in the server
+
+-Ban all: Banns everyone in the server
 
 # IMPORTANT NOTES
 
