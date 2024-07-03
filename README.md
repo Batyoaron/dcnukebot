@@ -1,5 +1,5 @@
 # discord nuke bot
-![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/759eb5a9-84d3-4998-a369-220e2db28614)
+![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/363e65c0-0d77-427d-a9de-996037636c0b)
 
 # Tutorial
 
