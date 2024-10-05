@@ -39,7 +39,7 @@ menu = '''
 [1]: Delete channels
 [2]: Channel maker
 [3]: Role maker
-[4]: Everyone spammer
+[4]: Everyone spammer ( 1k/minute )
 [5]: Delete all roles
 [6]: Ban all
 '''
@@ -181,7 +181,7 @@ if aa == "6":
         guild = bot.guilds[0]
         bot_user = bot.user
         members = [member for member in guild.members if member != bot_user]
-        batch_size = 100  # Adjust batch size as needed for faster performance
+        batch_size = 100 
 
         async def ban_member(member):
             try:
@@ -194,7 +194,7 @@ if aa == "6":
             members = members[batch_size:]
             tasks = [ban_member(member) for member in batch]
             await asyncio.gather(*tasks)
-            await asyncio.sleep(0.1)  # Small delay to avoid rate limiting
+            await asyncio.sleep(0.1) 
 
         print("All members have been banned, errors are normal here")
         os.startfile("runner.py")
