@@ -5,23 +5,23 @@
 
 # Tutorial
 
-Go to the Discord Developer Portal and log in with your Discord account.
+1. Go to the Discord Developer Portal and log in with your Discord account.
 
-Once logged in, click on the "New Application" button.
+2. Once logged in, click on the "New Application" button.
 
-Give your application a name (this will be the name of your bot).
+3. Give your application a name (this will be the name of your bot).
 
-After creating the application, click on the "Bot" tab on the left sidebar, then click on the "Add Bot" button to create a bot user for your application.
+4. After creating the application, click on the "Bot" tab on the left sidebar, then click on the "Add Bot" button to create a bot user for your application.
 
-You'll see a "Token" section where you can copy your bot's token. Make sure to keep this token secure and never share it publicly. Choose the option "s" in the program and paste the token into the input field.
+5. You'll see a "Token" section where you can copy your bot's token. If you see "reset token" reset it. Choose the option "s" in the program and copy paste the token into the input field.
 
-Next, go to the "OAuth2" tab on the left sidebar. Scroll down to the "OAuth2 URL Generator" section.
+6. Next, go to the "OAuth2" tab on the left sidebar. Scroll down to the "OAuth2 URL Generator" section.
 
-Under "Scopes", select "bot".
+7. Under "Scopes", select "bot".
 
-Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier, it will need the "manage roles, manage channels, send messages, ban members" permission.
+8. Under "Bot Permissions", select the permissions your bot will need. For the bot we created earlier, it will need the **"manage roles, manage channels, send messages, ban members" permission.**
 
-After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
+9. After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
 
 
 ## What this program does?
