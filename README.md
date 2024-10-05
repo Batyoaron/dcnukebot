@@ -30,6 +30,12 @@
 
 9. After selecting the appropriate permissions, a URL will be generated. With that url you can invite the bot to the server.
 
+10. Dont forget to enable the Intents
+![image](https://github.com/user-attachments/assets/814c2571-743b-4341-b779-0be5b9736181)
+
+11. You are done, invite your bot to the server (requires Manage Server perm), and select the server in the menus
+
+<br> 
 
 ## What this program does?
 
