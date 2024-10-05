@@ -3,6 +3,13 @@
 
 > the creator (me) is not responsible for anything you do with the program
 
+<br>
+<h2 align="center">
+<a href = "https://github.com/Batyoaron/dcnukebot/archive/refs/heads/main.zip">
+  <strong> ▶Click me to download the program </strong>
+</h2>
+</a>
+
 # Tutorial
 
 1. Go to the Discord Developer Portal and log in with your Discord account.
