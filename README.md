@@ -1,5 +1,5 @@
 # discord nuke bot
-![image](https://github.com/Batyoaron/dcnukebot/assets/111697446/363e65c0-0d77-427d-a9de-996037636c0b)
+![image](https://github.com/user-attachments/assets/96dd60fc-137b-4fe6-b0f5-8cf53005f693)
 
 > the creator (me) is not responsible for anything you do with the program
 
