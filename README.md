@@ -38,10 +38,3 @@
 
 -Ban all: Banns everyone in the server
 
-# IMPORTANT NOTES
-
--bot works in termux
-
--the bot can only be at one server, if you want to use it in an other server, kick it from the latest server
-
--dont use this bot to destroy innocent peoples server c:
